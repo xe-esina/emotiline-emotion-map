@@ -1,0 +1,2768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <GazeData TimeStamp="266217451587">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925306922" SystemTimeStamp="266217451587">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217494512">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925349839" SystemTimeStamp="266217494512">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217537465">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925392784" SystemTimeStamp="266217537465">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217580340">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925435651" SystemTimeStamp="266217580340">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217617397">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925472702" SystemTimeStamp="266217617397">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217660234">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925515531" SystemTimeStamp="266217660234">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217703095">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925558384" SystemTimeStamp="266217703095">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217745956">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925601237" SystemTimeStamp="266217745956">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217788840">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925644114" SystemTimeStamp="266217788840">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217832176">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925687442" SystemTimeStamp="266217832176">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217869717">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925724976" SystemTimeStamp="266217869717">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217913101">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925768352" SystemTimeStamp="266217913101">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217956437">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925811680" SystemTimeStamp="266217956437">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266217999714">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925854949" SystemTimeStamp="266217999714">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218043104">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925898332" SystemTimeStamp="266218043104">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218086422">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925941642" SystemTimeStamp="266218086422">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218123933">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611925979146" SystemTimeStamp="266218123933">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218167264">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926022469" SystemTimeStamp="266218167264">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218210537">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926065734" SystemTimeStamp="266218210537">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218253801">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926108990" SystemTimeStamp="266218253801">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218297181">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926152362" SystemTimeStamp="266218297181">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218340944">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926196117" SystemTimeStamp="266218340944">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218378958">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926234125" SystemTimeStamp="266218378958">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218422757">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926277916" SystemTimeStamp="266218422757">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218466585">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926321736" SystemTimeStamp="266218466585">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218510311">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926365454" SystemTimeStamp="266218510311">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218554063">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926409198" SystemTimeStamp="266218554063">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218597849">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926452976" SystemTimeStamp="266218597849">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218635958">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926491078" SystemTimeStamp="266218635958">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218679725">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926534837" SystemTimeStamp="266218679725">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218723548">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926578652" SystemTimeStamp="266218723548">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218767270">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926622366" SystemTimeStamp="266218767270">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218811050">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926666138" SystemTimeStamp="266218811050">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218855289">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926710369" SystemTimeStamp="266218855289">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218893724">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926748797" SystemTimeStamp="266218893724">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218937923">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926792988" SystemTimeStamp="266218937923">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266218982208">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926837265" SystemTimeStamp="266218982208">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219026394">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926881443" SystemTimeStamp="266219026394">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219070612">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926925653" SystemTimeStamp="266219070612">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219114758">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611926969791" SystemTimeStamp="266219114758">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219153190">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927008216" SystemTimeStamp="266219153190">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219197396">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927052414" SystemTimeStamp="266219197396">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219241614">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927096624" SystemTimeStamp="266219241614">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219285769">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927140771" SystemTimeStamp="266219285769">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219329983">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927184977" SystemTimeStamp="266219329983">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219372934">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927227920" SystemTimeStamp="266219372934">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219410107">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927265086" SystemTimeStamp="266219410107">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219452989">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927307961" SystemTimeStamp="266219452989">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219495949">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927350913" SystemTimeStamp="266219495949">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219538881">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927393837" SystemTimeStamp="266219538881">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219581857">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927436805" SystemTimeStamp="266219581857">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219624721">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927479661" SystemTimeStamp="266219624721">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219661786">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927516720" SystemTimeStamp="266219661786">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219704632">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927559558" SystemTimeStamp="266219704632">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219751693">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927606610" SystemTimeStamp="266219751693">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219799234">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927654143" SystemTimeStamp="266219799234">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219844642">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927699543" SystemTimeStamp="266219844642">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219895725">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927750616" SystemTimeStamp="266219895725">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219933052">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927787936" SystemTimeStamp="266219933052">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266219976015">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927830892" SystemTimeStamp="266219976015">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220019512">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927874381" SystemTimeStamp="266220019512">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220062824">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927917685" SystemTimeStamp="266220062824">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220108052">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611927962905" SystemTimeStamp="266220108052">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220153079">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928007924" SystemTimeStamp="266220153079">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220190371">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928045209" SystemTimeStamp="266220190371">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220234248">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928089078" SystemTimeStamp="266220234248">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220278255">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928133077" SystemTimeStamp="266220278255">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220321591">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928176405" SystemTimeStamp="266220321591">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220364910">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928219716" SystemTimeStamp="266220364910">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220408650">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928263448" SystemTimeStamp="266220408650">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220446640">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928301431" SystemTimeStamp="266220446640">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220490396">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928345179" SystemTimeStamp="266220490396">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220534390">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928389165" SystemTimeStamp="266220534390">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220578150">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928432917" SystemTimeStamp="266220578150">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220621979">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928476738" SystemTimeStamp="266220621979">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220665728">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928520480" SystemTimeStamp="266220665728">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220703707">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928558452" SystemTimeStamp="266220703707">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220747452">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928602189" SystemTimeStamp="266220747452">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+  <GazeData TimeStamp="266220791233">
+    <Left>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Left>
+    <Right>
+      <GazeOriginInTrackBoxCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazeOriginInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointInUserCoordinates Value="(NaN, NaN, NaN)" Valid="False" />
+      <GazePointOnDisplayArea Value="(NaN, NaN)" Valid="False" />
+      <GazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+      <PupilDiameter Value="не число" Valid="False" />
+    </Right>
+    <CombinedGazeRayScreen Origin="(0.00000000, 0.00000000, 0.00000000)" Direction="(0.00000000, 0.00000000, 0.00000000)" Valid="False" />
+    <OriginalGaze DeviceTimeStamp="1167611928645962" SystemTimeStamp="266220791233">
+      <LeftEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </LeftEye>
+      <RightEye>
+        <GazeOrigin PositionInTrackBoxCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazeOrigin PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionInUserCoordinates="(не число, не число, не число)" Validity="Invalid" />
+        <GazePoint PositionOnDisplayArea="(не число, не число)" Validity="Invalid" />
+        <Pupil PupilDiameter="не число" Validity="Invalid" />
+      </RightEye>
+    </OriginalGaze>
+  </GazeData>
+</Data>
